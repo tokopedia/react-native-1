@@ -65,7 +65,6 @@ Pod::Spec.new do |s|
                               "React/Views/RCTRefreshControl*",
                               "React/Views/RCTSlider*",
                               "React/Views/RCTSwitch*",
-                              "React/Views/RCTWebView*"
     ss.compiler_flags       = folly_compiler_flags
     ss.header_dir           = "React"
     ss.framework            = "JavaScriptCore"
